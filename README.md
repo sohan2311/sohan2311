@@ -213,33 +213,12 @@ const sohan = {
 ## 🎯 2025 Goals
 
 - ✅ Deploy 5 ML models to production
-- 🔄 Build an autonomous drone navigation system
+- 🔄 Build an autonomous drone and its buddy for Rescue Ops powered by AI
 - 📚 Master PyTorch and Advanced Computer Vision
 - 🚀 Launch my first AI-powered IoT product
 - 🤖 Contribute to open-source AI/ML projects
-- 🌍 Travel to 3 new countries and explore their tech scenes
+- 🌍 Travel to 3 new destinations and explore their tech scenes
 
-## ☕ Support Me
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/yourusername">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-</div>
-
-## ☕ Support Me
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/yourusername">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-</div>
 
 ## 🐍 Contribution Snake
 
