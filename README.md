@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sohan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=ML+Engineer;AI+Enthusiast;IoT+Developer;Drone+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,24 +12,28 @@
 
 ```javascript
 const sohan = {
-    location: "Your Location",
-    code: ["JavaScript", "Python", "Java", "C++"],
+    location: "Kolkata 🏠 & Kurnool 🎓 (India)",
+    code: ["Python", "C", "C++", "Embedded C", "HTML", "CSS", "Verilog HDL"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
+        aiMlSkills: {
+            domains: ["IoT", "Machine Learning", "Deep Learning", "AI"],
+            tools: ["Python Libraries", "Neural Networks", "Data Analysis"]
         },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask", "FastAPI"],
-            java: ["Spring Boot"]
+        databases: ["MySQL"],
+        hardware: {
+            microcontrollers: ["Arduino", "Raspberry Pi", "ESP32"],
+            simulation: ["LT Spice"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        cloud: ["AWS", "Azure", "Google Cloud"],
-        tools: ["Docker", "Git", "VS Code"]
+        design: {
+            graphics: ["Figma", "Canva"],
+            video: ["DaVinci Resolve"]
+        },
+        productivity: ["Microsoft Office Suite"],
+        development: ["VS Code"]
     },
-    currentFocus: "Building amazing web applications",
-    funFact: "I debug with console.log() and I'm proud of it!"
+    hobbies: ["🌍 Travelling", "📺 Binge Watching", "⚽ Football", "🏏 Cricket", "📚 Bengali Detective Stories"],
+    currentFocus: "Building intelligent IoT systems and autonomous drones",
+    funFact: "I train neural networks by day, fly drones by evening, and read Bengali detective stories by night!"
 };
 ```
 
@@ -43,31 +47,17 @@ const sohan = {
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <br>C
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
-      </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
         <br>HTML
@@ -77,20 +67,60 @@ const sohan = {
         <br>CSS
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+        <br>Arduino
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" />
+        <br>Raspberry Pi
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
         <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white" width="48" height="20" alt="Embedded C" />
+        <br>Embedded C
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/Verilog-FF6B35?style=flat&logo=v&logoColor=white" width="48" height="20" alt="Verilog HDL" />
+        <br>Verilog HDL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/LT_Spice-0066CC?style=flat&logo=electronics&logoColor=white" width="48" height="20" alt="LT Spice" />
+        <br>LT Spice
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" width="48" height="20" alt="MS Office" />
+        <br>MS Office
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" width="48" height="20" alt="Canva" />
+        <br>Canva
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/DaVinci-233A51?style=flat&logo=davinciresolve&logoColor=white" width="48" height="20" alt="DaVinci Resolve" />
+        <br>DaVinci
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/IoT-FF6B6B?style=flat&logo=internetofthings&logoColor=white" width="48" height="20" alt="IoT" />
+        <br>IoT
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/AI/ML-00D4FF?style=flat&logo=tensorflow&logoColor=white" width="48" height="20" alt="AI/ML" />
+        <br>AI/ML
       </td>
     </tr>
   </table>
@@ -135,11 +165,12 @@ const sohan = {
 
 ## 💼 What I'm Working On
 
-- 🔭 Currently building **[Your Current Project Name]**
-- 🌱 Learning **[Technology you're learning]**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, JavaScript, Python**
-- ⚡ Fun fact: **[Add a fun fact about yourself]**
+- 🔭 Currently building **AI-powered autonomous drone systems**
+- 🌱 Learning **Advanced Computer Vision & Autonomous Systems**
+- 👯 Looking to collaborate on **AI, IoT, and Drone Projects**
+- 💬 Ask me about **Machine Learning, IoT Development, Drone Programming**
+- ⚽ When not coding: **Playing football, watching cricket, traveling, or reading Bengali detective stories**
+- ⚡ Fun fact: **My drones are powered by AI and sometimes they're smarter than me!**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
@@ -148,17 +179,26 @@ const sohan = {
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/sohan-maity-26881a288/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://github.com/sohan2311">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://x.com/SohanMaity2311">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  <a href="https://www.instagram.com/sohan_maity_2311/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <a href="mailto:sohan.maity2311@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Gmail" />
+  </a>
+  <a href="mailto:523ec0001@iiitk.ac.in">
+    <img src="https://img.shields.io/badge/Academic_Email-1a73e8?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic Email" />
   </a>
 </div>
 
@@ -170,13 +210,25 @@ const sohan = {
 - [Learning Something New](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
-- ✅ Complete 100 Days of Code
-- 🔄 Contribute to 10 Open Source Projects
-- 📚 Master TypeScript and Next.js
-- 🚀 Launch my first SaaS product
-- 📱 Build a mobile app with React Native
+- ✅ Deploy 5 ML models to production
+- 🔄 Build an autonomous drone navigation system
+- 📚 Master PyTorch and Advanced Computer Vision
+- 🚀 Launch my first AI-powered IoT product
+- 🤖 Contribute to open-source AI/ML projects
+- 🌍 Travel to 3 new countries and explore their tech scenes
+
+## ☕ Support Me
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/yourusername">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/yourusername">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</div>
 
 ## ☕ Support Me
 
