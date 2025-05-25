@@ -1,11 +1,15 @@
 # Hi there! 👋 I'm Sohan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=ML+Engineer;AI+Enthusiast;IoT+Developer;Drone+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2000&pause=800&color=00FFFF&background=000000&center=true&vCenter=true&width=800&height=100&lines=ML+ENGINEER;AI+ENTHUSIAST;IoT+DEVELOPER;DRONE+ENGINEER;NEURAL+NETWORK+ARCHITECT;AUTONOMOUS+SYSTEMS+BUILDER;ALWAYS+INNOVATING" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="800">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4bdc-a9db-a9b7ae6a5d7f.gif" width="500">
 </div>
 
 ## 🚀 About Me
@@ -38,7 +42,7 @@ const sohan = {
 ```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 ## 🛠️ Tech Stack
@@ -47,119 +51,131 @@ const sohan = {
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" />
+        <br><font color="#00FFFF">Python</font>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-        <br>C
+        <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" />
+        <br><font color="#00FFFF">C</font>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-        <br>C++
+        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" />
+        <br><font color="#00FFFF">C++</font>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" />
+        <br><font color="#00FFFF">HTML</font>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" />
+        <br><font color="#00FFFF">CSS</font>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
-        <br>Arduino
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" />
-        <br>Raspberry Pi
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white" width="48" height="20" alt="Embedded C" />
-        <br>Embedded C
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Verilog-FF6B35?style=flat&logo=v&logoColor=white" width="48" height="20" alt="Verilog HDL" />
-        <br>Verilog HDL
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />
+        <br><font color="#00FFFF">MySQL</font>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/LT_Spice-0066CC?style=flat&logo=electronics&logoColor=white" width="48" height="20" alt="LT Spice" />
-        <br>LT Spice
+        <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" height="48" alt="Arduino" />
+        <br><font color="#00FFFF">Arduino</font>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" width="48" height="20" alt="MS Office" />
-        <br>MS Office
+        <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="48" height="48" alt="Raspberry Pi" />
+        <br><font color="#00FFFF">Raspberry Pi</font>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" width="48" height="20" alt="Canva" />
-        <br>Canva
+        <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" />
+        <br><font color="#00FFFF">Figma</font>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/DaVinci-233A51?style=flat&logo=davinciresolve&logoColor=white" width="48" height="20" alt="DaVinci Resolve" />
-        <br>DaVinci
+        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" />
+        <br><font color="#00FFFF">VS Code</font>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/IoT-FF6B6B?style=flat&logo=internetofthings&logoColor=white" width="48" height="20" alt="IoT" />
-        <br>IoT
+        <img src="https://img.shields.io/badge/Embedded_C-00FFFF?style=for-the-badge&logo=c&logoColor=black&labelColor=000000" width="48" height="20" alt="Embedded C" />
+        <br><font color="#00FFFF">Embedded C</font>
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/AI/ML-00D4FF?style=flat&logo=tensorflow&logoColor=white" width="48" height="20" alt="AI/ML" />
-        <br>AI/ML
+        <img src="https://img.shields.io/badge/Verilog-FF00FF?style=for-the-badge&logo=v&logoColor=white&labelColor=000000" width="48" height="20" alt="Verilog HDL" />
+        <br><font color="#00FFFF">Verilog HDL</font>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/LT_Spice-00FFFF?style=for-the-badge&logo=electronics&logoColor=black&labelColor=000000" width="48" height="20" alt="LT Spice" />
+        <br><font color="#00FFFF">LT Spice</font>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/MS_Office-FF6600?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=000000" width="48" height="20" alt="MS Office" />
+        <br><font color="#00FFFF">MS Office</font>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/Canva-FF00FF?style=for-the-badge&logo=canva&logoColor=white&labelColor=000000" width="48" height="20" alt="Canva" />
+        <br><font color="#00FFFF">Canva</font>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/DaVinci-00FFFF?style=for-the-badge&logo=davinciresolve&logoColor=black&labelColor=000000" width="48" height="20" alt="DaVinci Resolve" />
+        <br><font color="#00FFFF">DaVinci</font>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/IoT-FF6600?style=for-the-badge&logo=internetofthings&logoColor=white&labelColor=000000" width="48" height="20" alt="IoT" />
+        <br><font color="#00FFFF">IoT</font>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/AI/ML-00FFFF?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=000000" width="48" height="20" alt="AI/ML" />
+        <br><font color="#00FFFF">AI/ML</font>
       </td>
     </tr>
   </table>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7eee7ca.gif" width="400">
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohan2311&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohan2311&show_icons=true&theme=neon&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_radius=15" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan2311&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan2311&theme=neon-dark&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ff6600&currStreakLabel=00ffff&border_radius=15" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan2311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan2311&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&border_radius=15" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b826-17a295a8a0b6.gif" width="500">
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohan2311&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sohan2311&theme=neon&no-frame=true&no-bg=false&row=1&column=6&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohan2311&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohan2311&custom_title=Sohan's%20Contribution%20Graph&bg_color=0d1117&color=00ffff&line=ff00ff&point=ff6600&area=true&hide_border=true&theme=high-contrast" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
 </div>
 
 ## 🔥 Featured Projects
 
 <div align="center">
   <a href="https://github.com/sohan2311/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohan2311&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohan2311&repo=project1&theme=neon&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_radius=15" alt="Project 1" />
   </a>
   <a href="https://github.com/sohan2311/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohan2311&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohan2311&repo=project2&theme=neon&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_radius=15" alt="Project 2" />
   </a>
 </div>
 
@@ -173,33 +189,37 @@ const sohan = {
 - ⚡ Fun fact: **My drones are powered by AI and sometimes they're smarter than me!**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
 </div>
 
 ## 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sohan-maity-26881a288/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sohan2311">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
   </a>
   <a href="https://x.com/SohanMaity2311">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter)" />
   </a>
   <a href="https://www.instagram.com/sohan_maity_2311/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 10px;">
   <a href="mailto:sohan.maity2311@gmail.com">
-    <img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Gmail" />
+    <img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Personal Gmail" />
   </a>
   <a href="mailto:523ec0001@iiitk.ac.in">
-    <img src="https://img.shields.io/badge/Academic_Email-1a73e8?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic Email" />
+    <img src="https://img.shields.io/badge/Academic_Email-1a73e8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Academic Email" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4bdc-a9db-a9b7ae6a5d7f.gif" width="300">
 </div>
 
 ## 📝 Latest Blog Posts
@@ -219,22 +239,49 @@ const sohan = {
 - 🤖 Contribute to open-source AI/ML projects
 - 🌍 Travel to 3 new destinations and explore their tech scenes
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="500">
+</div>
 
-## 🌆 GitHub Skyline
+## 🌆 3D GitHub Skyline & Activity
 
-<p align="center">
-  <img src="path-to-your-uploaded-skyline.gif" alt="GitHub Skyline" />
-</p>
+<div align="center">
+  <h3>🌃 My GitHub City Skyline</h3>
+  <a href="https://skyline.github.com/sohan2311/2024">
+    <img src="https://user-images.githubusercontent.com/74038190/212750108-5b9ad9f9-bb6a-4bc7-9978-fb7cc8b82b84.gif" width="600" alt="GitHub Skyline" />
+  </a>
+  <br>
+  <a href="https://skyline.github.com/sohan2311/2024">
+    <img src="https://img.shields.io/badge/View_My_GitHub_Skyline-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" alt="View Skyline" />
+  </a>
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39ca-4e87-b000-46b14bcc6712.gif" width="400">
+</div>
+
+## 🎮 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohan2311&bg_color=000000&color=00ffff&line=ff00ff&point=ff6600&area=true&hide_border=true&custom_title=Neural%20Networks%20Training%20Activity" width="100%" alt="Activity Graph"/>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohan2311&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sohan2311?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=sohan2311&label=Profile%20views&color=00ffff&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sohan2311?label=Followers&style=for-the-badge&color=ff00ff&labelColor=000000" alt="GitHub Followers" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-8ce9d4c6dd35.gif" width="400">
 </div>
 
 <div align="center">
   <h3>💫 Thanks for visiting! Have a great day! 💫</h3>
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212746036-6141f7de-9351-4e9a-9819-b4ccf151e3f6.gif" width="900">
 </div>
