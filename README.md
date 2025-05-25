@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sohan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2000&pause=800&color=00FFFF&background=000000&center=true&vCenter=true&width=800&height=100&lines=ML+ENGINEER;AI+ENTHUSIAST;IoT+DEVELOPER;DRONE+ENGINEER;NEURAL+NETWORK+ARCHITECT;AUTONOMOUS+SYSTEMS+BUILDER;ALWAYS+INNOVATING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2000&pause=800&color=00FFFF&background=000000&center=true&vCenter=true&width=800&height=100&lines=3rd+YEAR+ECE+UNDERGRAD;IIIT+KURNOOL;LEARNING+ML+AND+DEEP+LEARNING;AI+ENTHUSIAST;IoT+DEVELOPER;DRONE+UAVs+UCAVs;NEURAL+NETWORK+ENTHUSIAST;AUTONOMOUS+SYSTEMS+BUILDER;ALWAYS+INNOVATING;ALWAYS+LEARNING" alt="Typing SVG" />
 </div>
 
 <div align="center">
