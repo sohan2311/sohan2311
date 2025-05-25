@@ -220,15 +220,11 @@ const sohan = {
 - 🌍 Travel to 3 new destinations and explore their tech scenes
 
 
-## 🐍 Contribution Snake
+## 🌆 GitHub Skyline
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohan2311/sohan2311/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohan2311/sohan2311/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/sohan2311/sohan2311/output/snake.svg" />
-  </picture>
-</div>
+<p align="center">
+  <img src="path-to-your-uploaded-skyline.gif" alt="GitHub Skyline" />
+</p>
 
 
 ---
