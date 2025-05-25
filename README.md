@@ -189,7 +189,7 @@ const sohan = {
 - ⚡ Fun fact: **My drones are powered by AI and sometimes they're smarter than me!**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 </div>
 
 ## 🌐 Connect with Me
@@ -243,17 +243,21 @@ const sohan = {
   <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="500">
 </div>
 
-## 🌆 3D GitHub Skyline & Activity
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <h3>🌃 My GitHub City Skyline</h3>
-  <a href="https://skyline.github.com/sohan2311/2024">
-    <img src="https://user-images.githubusercontent.com/74038190/212750108-5b9ad9f9-bb6a-4bc7-9978-fb7cc8b82b84.gif" width="600" alt="GitHub Skyline" />
-  </a>
-  <br>
-  <a href="https://skyline.github.com/sohan2311/2024">
-    <img src="https://img.shields.io/badge/View_My_GitHub_Skyline-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" alt="View Skyline" />
-  </a>
+  <h3>🐍 Watch the Snake Eat My Contributions!</h3>
+  <img src="https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
+
+## 🎮 More GitHub Animations
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake.svg" alt="GitHub Snake Light Mode" width="100%"/>
 </div>
 
 <div align="center">
