@@ -93,12 +93,38 @@ const sohan = {
         <br><font color="#00FFFF">VS Code</font>
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="48" height="48" alt="MATLAB" />
+        <br><font color="#00FFFF">MATLAB</font>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/SIMULINK-FF6600?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=000000" width="48" height="20" alt="SIMULINK" />
+        <br><font color="#00FFFF">SIMULINK</font>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
         <img src="https://img.shields.io/badge/Embedded_C-00FFFF?style=for-the-badge&logo=c&logoColor=black&labelColor=000000" width="48" height="20" alt="Embedded C" />
         <br><font color="#00FFFF">Embedded C</font>
       </td>
       <td align="center" width="96">
         <img src="https://img.shields.io/badge/Verilog-FF00FF?style=for-the-badge&logo=v&logoColor=white&labelColor=000000" width="48" height="20" alt="Verilog HDL" />
         <br><font color="#00FFFF">Verilog HDL</font>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/EMU_8086-00FF00?style=for-the-badge&logo=intel&logoColor=black&labelColor=000000" width="48" height="20" alt="EMU 8086" />
+        <br><font color="#00FFFF">EMU 8086</font>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/Keil_uVision-FF0000?style=for-the-badge&logo=arm&logoColor=white&labelColor=000000" width="48" height="20" alt="Keil uVision 4" />
+        <br><font color="#00FFFF">Keil uVision 4</font>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white&labelColor=000000" width="48" height="20" alt="KiCAD" />
+        <br><font color="#00FFFF">KiCAD</font>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/LPC2148-FF6600?style=for-the-badge&logo=nxp&logoColor=white&labelColor=000000" width="48" height="20" alt="LPC2148" />
+        <br><font color="#00FFFF">LPC2148</font>
       </td>
     </tr>
     <tr>
