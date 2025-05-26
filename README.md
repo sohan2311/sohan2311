@@ -171,11 +171,11 @@ const sohan = {
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/sohan2311/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohan2311&repo=project1&theme=neon&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_radius=15" alt="Project 1" />
+  <a href="https://github.com/sohan2311/NIDAR-AirAID">
+    <img src="https://github.com/sohan2311/NIDAR-AirAID/blob/main/Logo.png" />
   </a>
-  <a href="https://github.com/sohan2311/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohan2311&repo=project2&theme=neon&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_radius=15" alt="Project 2" />
+  <a href="https://github.com/sohan2311/SIC-Project---Brain-Tumor-Detection-using-VGG-16-">
+    <img src="https://tenor.com/en-GB/view/human-brain-mri-brain-mri-brain-mri-gif-brain-gif-gift-box-gif-5660133225794893045" />
   </a>
 </div>
 
@@ -243,22 +243,14 @@ const sohan = {
   <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="500">
 </div>
 
-## 🐍 GitHub Contribution Snake
+## GitHub Contribution
 
-<div align="center">
-  <h3>🐍 Watch the Snake Eat My Contributions!</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
 
-## 🎮 Snake Game Animation
+## 🎮 CODING the new form of LIFE
 
 <div align="center">
   <img src="https://github.com/sohan2311/sohan2311/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
