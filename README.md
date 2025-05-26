@@ -170,20 +170,16 @@ const sohan = {
 
 ## 🔥 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/sohan2311/NIDAR-AirAID">
-    <img src="https://github.com/sohan2311/NIDAR-AirAID/blob/main/Logo.png?raw=true" width="132" height="132" alt="NIDAR AirAID Logo" />
-    <br/>
-    <span style="font-size:16px; color:#39ff14; font-weight:bold;">NIDAR AirAID</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/sohan2311/SIC-Project---Brain-Tumor-Detection-using-VGG-16-">
-    <img src="https://raw.githubusercontent.com/sohan2311/SIC-Project---Brain-Tumor-Detection-using-VGG-16-/main/BrainTumor.gif" width="132" height="132" alt="Brain Tumor Detection GIF" />
-    <br/>
-    <span style="font-size:16px; color:#00ffff; font-weight:bold;">Brain Tumor Detection</span>
-  </a>
-</div>
+## Projects
 
+<div align="center">
+
+| NIDAR AirAID | Brain Tumor Detection |
+|:---:|:---:|
+| [![NIDAR AirAID](https://github.com/sohan2311/NIDAR-AirAID/blob/main/Logo.png?raw=true)](https://github.com/sohan2311/NIDAR-AirAID) | [![Brain Tumor Detection](https://raw.githubusercontent.com/sohan2311/SIC-Project---Brain-Tumor-Detection-using-VGG-16-/main/BrainTumor.gif)](https://github.com/sohan2311/SIC-Project---Brain-Tumor-Detection-using-VGG-16-) |
+| **[NIDAR AirAID](https://github.com/sohan2311/NIDAR-AirAID)** | **[Brain Tumor Detection](https://github.com/sohan2311/SIC-Project---Brain-Tumor-Detection-using-VGG-16-)** |
+
+</div>
 
 
 
