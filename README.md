@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sohan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2000&pause=800&color=00FFFF&background=000000&center=true&vCenter=true&width=800&height=100&lines=3rd+YEAR+ECE+UNDERGRAD;IIIT+KURNOOL;LEARNING+ML+AND+DEEP+LEARNING;AI+ENTHUSIAST;IoT+DEVELOPER;BUILDING+DRONES;NEURAL+NETWORK+ENTHUSIAST;AUTONOMOUS+SYSTEMS+BUILDER;ALWAYS+INNOVATING;ALWAYS+LEARNING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2000&pause=800&color=00FFFF&background=000000&center=true&vCenter=true&width=800&height=100&lines=3rd+YEAR+ECE+UNDERGRAD;@+IIIT+KURNOOL;LEARNING+ML+&+DEEP+LEARNING;AI+ENTHUSIAST;IoT+DEVELOPER;BUILDING+DRONES;NEURAL+NETWORKS;AUTONOMOUS+SYSTEMS;ALWAYS+INNOVATIVE+ALWAYS+LEARNING" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -189,7 +189,7 @@ const sohan = {
 - ⚡ Fun fact: **My drones are powered by AI and sometimes they're smarter than me!**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </div>
 
 ## 🌐 Connect with Me
@@ -247,17 +247,25 @@ const sohan = {
 
 <div align="center">
   <h3>🐍 Watch the Snake Eat My Contributions!</h3>
-  <img src="https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
 
-## 🎮 More GitHub Animations
+## 🎮 Snake Game Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake.svg" alt="GitHub Snake Light Mode" width="100%"/>
+  <img src="https://github.com/sohan2311/sohan2311/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 </div>
 
 <div align="center">
