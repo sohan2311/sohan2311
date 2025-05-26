@@ -33,7 +33,7 @@ const sohan = {
             video: ["DaVinci Resolve"]
         },
         productivity: ["Microsoft Office Suite"],
-        development: ["VS Code"]
+        development: ["VS Code" , "Google Colab"]
     },
     hobbies: ["🌍 Travelling", "📺 Binge Watching", "⚽ Football", "🏏 Cricket", "📚 Bengali Detective Stories"],
     currentFocus: "Building intelligent IoT systems and autonomous drones",
