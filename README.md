@@ -44,7 +44,77 @@ const sohan = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
+## 📊 GitHub Activity Calendar
 
+<div align="center">
+  
+### 🔥 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohan2311&theme=react-dark&hide_border=true&area=true)
+
+### 📈 Contribution Stats
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📅 Monthly Contribution Heatmap
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=sohan2311&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
+
+### 🏆 Contribution Summary
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sohan2311&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan2311&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 GitHub Metrics
+
+<div align="center">
+  
+![Metrics](https://metrics.lecoq.io/sohan2311?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FKolkata)
+
+### 📊 Detailed Activity
+![Profile Views](https://komarev.com/ghpvc/?username=sohan2311&label=Profile%20views&color=00FFFF&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/sohan2311?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/sohan2311?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/sohan2311/sohan2311/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+### 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+  
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sohan2311&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff)
+
+</div>
 ## 🛠️ Tech Stack
 
 <div align="center">
