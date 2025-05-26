@@ -176,7 +176,7 @@ const sohan = {
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/sohan2311/SIC-Project---Brain-Tumor-Detection-using-VGG-16-">
-    <img src="https://github.com/sohan2311/SIC-Project---Brain-Tumor-Detection-using-VGG-16-/blob/main/assets/brain.gif?raw=true" width="132" height="132" alt="Brain Tumor Detection GIF" />
+    <img src="https://github.com/sohan2311/SIC-Project---Brain-Tumor-Detection-using-VGG-16-/blob/main/BrainTumor.gif" width="132" height="132" alt="Brain Tumor Detection GIF" />
   </a>
 </div>
 
