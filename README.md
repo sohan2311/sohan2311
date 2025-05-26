@@ -172,12 +172,14 @@ const sohan = {
 
 <div align="center">
   <a href="https://github.com/sohan2311/NIDAR-AirAID">
-    <img src="https://github.com/sohan2311/NIDAR-AirAID/blob/main/Logo.png" />
+    <img src="https://github.com/sohan2311/NIDAR-AirAID/blob/main/Logo.png?raw=true" width="132" height="132" alt="NIDAR AirAID Logo" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/sohan2311/SIC-Project---Brain-Tumor-Detection-using-VGG-16-">
-    <img src="https://tenor.com/en-GB/view/human-brain-mri-brain-mri-brain-mri-gif-brain-gif-gift-box-gif-5660133225794893045" />
+    <img src="https://github.com/sohan2311/SIC-Project---Brain-Tumor-Detection-using-VGG-16-/blob/main/assets/brain.gif?raw=true" width="132" height="132" alt="Brain Tumor Detection GIF" />
   </a>
 </div>
+
 
 ## 💼 What I'm Working On
 
