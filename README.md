@@ -229,9 +229,9 @@ const sohan = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](https://yourblog.com/post1)
-- [Another Great Article](https://yourblog.com/post2)
-- [Learning Something New](https://yourblog.com/post3)
+- [National Entrepreneurship Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7312592424265007105/)
+- [Drone Bootcamp @ IIIT Kurnool](https://www.linkedin.com/in/sohan-maity-26881a288/overlay/1740420356802/single-media-viewer/?profileId=ACoAAEXjdfAB8YSP-qAEt416NZRTYMO0CFz8jqo)
+- [Joining IIITians Network](https://www.linkedin.com/feed/update/urn:li:activity:7258446357726715904/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 2025 Goals
