@@ -12,6 +12,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4bdc-a9db-a9b7ae6a5d7f.gif" width="500">
 </div>
 
+<div align="center">
+  <a href="https://github.com/sohan2311?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Repo-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffff&color=000000" alt="GitHub Repo Badge"/>
+  </a>
+</div>
+
+
+
 ## 🚀 About Me
 
 ```javascript
