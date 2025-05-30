@@ -208,7 +208,7 @@ const sohan = {
 
 <div align="center">
 
-| NIDAR AirAID | Brain Tumor Detection |
+| NIDAR AirAID | AI powered Medical Image Detection Analysis |
 |:---:|:---:|
 | [![NIDAR AirAID](https://github.com/sohan2311/NIDAR-AirAID/blob/main/Logo.png?raw=true)](https://github.com/sohan2311/NIDAR-AirAID) | [![AI powered Medical Image Detection Analysis](https://github.com/sohan2311/Medical-Image-Detection-Analysis/blob/ed24ca39b7b9f123cf3111fb45340296bb6eca26/App%20logo.png)](https://github.com/sohan2311/Medical-Image-Detection-Analysis) |
 | **[NIDAR AirAID](https://github.com/sohan2311/NIDAR-AirAID)** | **[AI Powered Medical Image Detection Analysis](https://github.com/sohan2311/Medical-Image-Detection-Analysis)** |
