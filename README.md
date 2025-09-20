@@ -28,13 +28,13 @@ const sohan = {
     code: ["Python", "C", "C++", "Embedded C", "HTML", "CSS", "MATLAB" , "Verilog HDL"],
     technologies: {
         aiMlSkills: {
-            domains: ["IoT", "Machine Learning", "Deep Learning", "AI"],
+            domains: ["IoT", "Machine Learning" , "AI"],
             tools: ["Python Libraries", "Neural Networks", "Data Analysis"]
         },
         databases: ["MySQL"],
         hardware: {
             microcontrollers: ["Arduino", "Raspberry Pi", "ESP32"],
-            simulation: ["LT Spice"]
+            simulation: ["LT Spice" , "Cadence Virtuoso" , "Vivado" ]
         },
         design: {
             graphics: ["Figma", "Canva"],
