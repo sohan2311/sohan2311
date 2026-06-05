@@ -25,7 +25,7 @@
 ```javascript
 const sohan = {
     location: "Kolkata 🏠 & Kurnool 🎓 (India)",
-    code: ["Python", "C", "C++", "Embedded C", "HTML", "CSS", "MATLAB" , "Verilog HDL"],
+    code: ["Python", "C", "C++", "Embedded C", "System Verilog" , "Verilog HDL" , "HTML", "CSS", "MATLAB"],
     technologies: {
         aiMlSkills: {
             domains: ["IoT", "VLSI" , "Embedded System" , "Machine Learning" , "AI"],
