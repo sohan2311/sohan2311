@@ -28,7 +28,7 @@ const sohan = {
     code: ["Python", "C", "C++", "Embedded C", "HTML", "CSS", "MATLAB" , "Verilog HDL"],
     technologies: {
         aiMlSkills: {
-            domains: ["IoT", "Machine Learning" , "AI"],
+            domains: ["IoT", "VLSI" , "Embedded System" , "Machine Learning" , "AI"],
             tools: ["Python Libraries", "Neural Networks", "Data Analysis"]
         },
         databases: ["MySQL"],
